@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  domain: MyString
+  name: MyString
+  base: MyString
+  ss: MyString
+  ani: MyString
+  a1: MyString
+  a2: MyString
+  a3: MyString
+  a4: MyString
+  o1: MyString
+  o2: MyString
+  o3: MyString
+  o4: MyString
+
+two:
+  domain: MyString
+  name: MyString
+  base: MyString
+  ss: MyString
+  ani: MyString
+  a1: MyString
+  a2: MyString
+  a3: MyString
+  a4: MyString
+  o1: MyString
+  o2: MyString
+  o3: MyString
+  o4: MyString
